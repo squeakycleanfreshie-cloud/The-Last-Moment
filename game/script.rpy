@@ -87,7 +87,16 @@ label start:
     m "He's asleep. Don't wake him. Go on in, look around if you want."
     n "You walk inside. The smell of old people hits you first."
     n "As a kid you never liked this place."
-    n ""
+    n "Everything was so old. And Bigger."
+    n "You walk through the kitchen, into your granpa's room."
+    n "He lays sleeping."
+    n "You know theese are going to be his final moments."
+    n "You walk over to him and kneel next to his bed."
+    y "Hey grandpa,"
+    y "I love you so much."
+    n "You kiss him on the forehead."
+    n "Then you go and find a chair in the corner."
+    n "Its old."
 
     show screen countdown_timer
     show screen room_items
@@ -138,10 +147,9 @@ label ending:
     elif len(items_found) >= 1:
 
     else:
-
+        n "life is short."
+        n "don't waste the time you have."
+        n "...."
+        n "and enjoy it."
     return
 
-
-label ending:
-
-    return
