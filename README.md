@@ -18,6 +18,13 @@ All art is made by me in adobe illustrator.
 ## Notes
 I really hope this game makes you emotional, if it doesen't then obiously I need to work on something because I probably cried a few times when creating it.
 
+### Things I wanted to add, but didn't have time to do:
+- Music
+- Front Door Art
+- Sound Effects
+- Custom Main Menu
+- Indivudual deatailed item images
+
 ## Licence
 MIT License
 Copyright (c) 2026 Remy Moreau
