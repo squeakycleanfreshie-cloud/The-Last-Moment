@@ -2,7 +2,7 @@
 A short renpy game about visiting your grandpa and his house before his final hours on earth. As you play a timer stays on the top of you. When it runs out, your grandpa's time here on earth is over. In this game, you will reflect on his life, consider your mistakes, and maybe even change your releationship before his final breath.
 
 ## How to Play
-Play the game on Itch.io here:
+Play the game on Itch.io here: https://remymorea.itch.io/the-last-moment
 Load it up, and click to navigate through dialouge. 
 Once you get to granpa's room, click on objects to learn more about them. You only have 5 minutes of gametime to play though, before you run out.
 
