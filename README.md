@@ -4,7 +4,7 @@ A short renpy game about visiting your grandpa and his house before his final ho
 ## How to Play
 Play the game on Itch.io here: https://remymorea.itch.io/the-last-moment
 Load it up, and click to navigate through dialouge. 
-Once you get to granpa's room, click on objects to learn more about them. You only have 5 minutes of gametime to play though, before you run out.
+Once you get to granpa's room, click on objects to learn more about them. You only have 3 minutes of gametime to play though, before you run out.
 
 ## Why did I make this game
 My other Renpy game isn't very emotional, and I wanted to discover a topic that made me sad when thinking about it. I got inspiration from this game from my grandpa who passed during covid, and I have memories of going to his retirement home. I also made this game to submit to the GMTK game jam and Hack Clubs Jame Gam.
